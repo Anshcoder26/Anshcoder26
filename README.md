@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [HelpOnWheels](https://github.com/Anshcoder26/HelpOnWheels)
 
-- 📫 How to reach me **anshscholarsden@gmail.com, [_itss_ansh_](https://www.instagram.com/_itss__ansh_/?hl=en)
+- 📫 How to reach me **anshscholarsden@gmail.com**, **[_itss_ansh_](https://www.instagram.com/_itss__ansh_/?hl=en)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
