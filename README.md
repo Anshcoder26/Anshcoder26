@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ansh Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Youtube-Backend-Sample](https://github.com/Anshcoder26/sample_backend)
+- 🔭 I’m currently working on [OnCare](https://github.com/Anshcoder26/OnCare)
 
-- 🌱 I’m currently learning **FrameWorks, Backend, Polishing ReactJS**
+- 🌱 I’m currently learning **FrameWorks, Backend**
 
 - 👯 I’m looking to collaborate on [HelpOnWheels](https://github.com/Anshcoder26/HelpOnWheels)
 
-- 📫 How to reach me **anshscholarsden@gmail.com**
+- 📫 How to reach me **anshscholarsden@gmail.com, [_itss_ansh_](https://www.instagram.com/_itss__ansh_/?hl=en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
